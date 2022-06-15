@@ -12,72 +12,72 @@ export default new Vuex.Store({
       {
         id:0,
         img: require('@/assets/1.jpg'),
-        title: 'sofa 243',
-        price: 156,
+        title: 'Mathematical statistics',
+        price: 559,
         color: 'yellow',
         type: 'sofa'
       }, {
         id:1,
         img: require('@/assets/2.jpg'),
-        title: 'lamp 54',
-        price: 756,
+        title: 'Discrete mathematics',
+        price: 759,
         color: 'yellow',
         type: 'lamp'
       }, {
         id:2,
         img: require('@/assets/3.jpg'),
-        title: 'fotal 34',
-        price: 362,
+        title: 'Probability and statistics',
+        price: 779,
         color: 'yellow',
         type: 'chair'
       }, {
         id:3,
         img: require('@/assets/4.jpg'),
-        title: 'fotal324',
-        price: 505,
+        title: 'software engineering',
+        price: 889,
         color: 'red',
         type: 'chair'
       }, {
         id:4,
         img: require('@/assets/5.jpg'),
-        title: 'sofa-1',
-        price: 243,
+        title: 'Software project management',
+        price: 1199,
         color: 'white',
         type: 'sofa'
       }, {
         id:5,
         img: require('@/assets/6.jpg'),
-        title: 'Fotal-2',
-        price: 44,
+        title: 'Data structures',
+        price: 889,
         color: 'white',
         type: 'chair'
       }, {
         id:6,
         img: require('@/assets/7.jpg'),
-        title: 'Fotal-34',
-        price: 505,
+        title: 'Introduction to algorithms',
+        price: 789,
         color: 'blue',
         type: 'chair'
       }, {
         id:7,
         img: require('@/assets/8.jpg'),
-        title: 'foto-4364',
-        price: 432,
+        title: 'operating systems',
+        price: 959,
         color: 'red',
         type: 'table'
       },
       {
         id:8,
         img: require('@/assets/9.jpg'),
-        title: 'foto-44',
-        price: 390,
+        title: 'Modern operating systems',
+        price: 799,
         color: 'white',
         type: 'table'
       },
       {
         id:9,
         img: require('@/assets/10.jpg'),
-        title: 'foto-34',
+        title: 'Expert python programming',
         price: 756,
         color: 'yellow',
         type: 'chair'
@@ -85,23 +85,23 @@ export default new Vuex.Store({
       {
         id:10,
         img: require('@/assets/11.jpg'),
-        title: 'foto-23',
-        price: 44,
+        title: 'Python programming',
+        price: 978,
         color: 'white',
         type: 'chair'
       },
       {
         id:11,
         img: require('@/assets/12.jpg'),
-        title: 'foto-4234',
-        price: 156,
+        title: 'Data structures',
+        price: 675,
         color: 'red',
         type: 'lamp'
       },
       {
         id:12,
         img: require('@/assets/13.jpg'),
-        title: 'foto-4234',
+        title: 'Data and computer communication',
         price: 756,
         color: 'blue',
         type: 'lamp'
@@ -109,15 +109,15 @@ export default new Vuex.Store({
       {
         id:13,
         img: require('@/assets/14.jpg'),
-        title: 'foto-4234',
-        price: 756,
+        title: 'Analog and digital electronics',
+        price: 889,
         color: 'white',
         type: 'chair'
       },
       {
         id:14,
         img: require('@/assets/table-1.jpg'),
-        title: 'table-32',
+        title: 'Environmental engineering',
         price: 756,
         color: 'white',
         type: 'table'

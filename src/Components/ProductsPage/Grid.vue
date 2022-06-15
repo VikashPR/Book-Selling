@@ -18,10 +18,10 @@
           <div class="dropdown">
             <button class="btn btn-light dropdown-toggle d-block d-lg-none d-xl-none" role="button" id="MenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CATAGORIES</button>
             <div class="dropdown-menu" aria-labelledby="MenuLink">
-              <a class="dropdown-item" @click="sortI('table')">Tables</a>
-              <a class="dropdown-item" @click="sortI('lamp')">Lamps</a>
-              <a class="dropdown-item" @click="sortI('chair')">Chairs</a>
-              <a class="dropdown-item" @click="sortI('sofa')">Sofas</a>
+              <a class="dropdown-item" @click="sortI('table')">I Year</a>
+              <a class="dropdown-item" @click="sortI('lamp')">II Year</a>
+              <a class="dropdown-item" @click="sortI('chair')">III Year</a>
+              <a class="dropdown-item" @click="sortI('sofa')">IV Year</a>
               <div class="dropdown-divider"></div>
               <div class="pl-3">
                 <span class="circle" style="background-color:yellow" @click="sortI('yellow')" />
@@ -42,10 +42,10 @@
               <div class="search-title">
                 <h4>Catagories  +</h4>
                 <br>
-                <h6 @click="sortI('table')">Tables</h6>
-                <h6 @click="sortI('lamp')">Lamps</h6>
-                <h6 @click="sortI('chair')">Chairs</h6>
-                <h6 @click="sortI('sofa')">Sofas</h6>
+                <h6 @click="sortI('table')">I Year</h6>
+                <h6 @click="sortI('lamp')">II Year</h6>
+                <h6 @click="sortI('chair')">III Year</h6>
+                <h6 @click="sortI('sofa')">IV Year</h6>
                 <br><br><br>
                 <h4 class="search-title">Filter by  +</h4>
                 <br>

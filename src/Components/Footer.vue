@@ -40,10 +40,10 @@
 
         <div class="col-12 col-xl-6 col-lg-3 col-md-3 col-sm-12 text-left text-md-right pb-5">
           <div class="footer-widget">
-            <h4>399 Crowfield Road,</h4>
-            <h4>Phoenix, Arizona 85012</h4>
-            <a href="mailto:#">asff@fdsfsdc.com</a>
-            <h6>+602-926-5809</h6>
+            <h4>414 SRM NAGAR</h4>
+            <h4>SRM UNVIERSITY, Kattankukathur</h4>
+            <a href="mailto:#">ds0203@srmist.edu.in</a>
+            <h6>+91 7373843335</h6>
           </div>
         </div>
 
@@ -52,7 +52,7 @@
       <div class="row justify-content-between">
         <div class="col-xl-7 col-lg-6 col-md-6 col-sm-6 col-6">
           <div class="tiny-footer">
-            <p>Copyright © All Rights Reserved 2020 </p>
+            <p>Copyright © All Rights Reserved 2022 </p>
           </div>
         </div>
         <div class="col-4 col-xl-4 col-lg-4 col-md-4 col-sm-4 text-right">

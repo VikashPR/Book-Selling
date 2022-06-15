@@ -99,7 +99,9 @@
             </template>
             <v-card>
                 <v-card-title class="text-h5">
-                    Your order is placed successfully !
+                    Your order is placed 
+                    <br>
+                    successfully !
                 </v-card-title>
                 <v-card-text>Click Agree to continue shopping</v-card-text>
                 <v-card-actions>

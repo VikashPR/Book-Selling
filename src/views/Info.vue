@@ -2,7 +2,7 @@
   <div class="container py-5" style="padding-top:70px;">
 
     <InfoBreadcrumb :information="information"/>
-    <InfoBox :information="information"/>
+    <InfoBox :information="information" class="info_box"/>
     <InfoText />
 
     <div class="related-item">
@@ -65,5 +65,8 @@ border-bottom: 1px solid black;
   padding-right: 8rem;
   height: auto;
   text-align: center;
+}
+.v-application .info {
+  background:#fff !important;
 }
 </style>

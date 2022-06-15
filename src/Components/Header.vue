@@ -56,7 +56,7 @@
                     Remember me
                   </label>
               </div>
-              <button type="submit" class="btn-xl btn-success mt-3">Sign in</button>
+              <button type="submit" class="btn-xl btn-success mt-3" @click="alert">Sign in</button>
             </form>
           </div>
           <div class="modal-footer">
@@ -87,6 +87,9 @@ export default {
   methods: {
     openCart() {
       this.$refs.cartMove.cartON()
+    },
+    alert() {
+      alert('You are logged in')
     }
   }
 }

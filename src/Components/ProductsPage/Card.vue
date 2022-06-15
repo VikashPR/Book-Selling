@@ -10,7 +10,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title">{{ item.title }}</h5>
-              <p class="card-text">${{ item.price }}</p>
+              <p class="card-text">&#8377; {{ item.price }}</p>
             </div>
           </div>
       </div>
@@ -44,10 +44,13 @@ export default {
   transition: 500ms;
   position: relative;
   overflow: hidden;
+  border-radius: 12px;
 }
 
 .card img {
   z-index: 1;
+  height:300px;
+  min-width: 400px;
 }
 
 .card button {

@@ -3,7 +3,7 @@
     <div class="container-fluid py-5">
       <div class="row d-flex">
         <div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-12 order-sm-0 order-12" style="margin-right:-120px;">
-          <img class="img-fluid" src="@/assets/con.jpg">
+          <img class="img-fluid" src="https://images.unsplash.com/photo-1519218470957-62c7c83c36b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80">
         </div>
         <div class="col-12 col-xl-6 col-lg-5 col-md-6 col-sm-12 order-first order-xl-0">
           <h1>Hello there</h1>
@@ -41,6 +41,11 @@ form {
   padding: 50px 0;
   display: block;
   margin: 0 auto;
+}
+.img-fluid{
+  width: 100%;
+  height: auto;
+  position: absolute;
 }
 
 .form-group {

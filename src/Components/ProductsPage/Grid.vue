@@ -138,7 +138,7 @@ export default {
   }
 </script>
 
-<style>
+<style scoped>
 .container.grid {
   min-height: 60rem;
 }

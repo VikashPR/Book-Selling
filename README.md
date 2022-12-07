@@ -1,12 +1,7 @@
-# Vue Store-Front Templete
+# Vue 
 
 > An E-commerce templete made with bootstrap4
 > and Vue/Vuex/Vue-router.
-
-
-<p align="center">
-  <img src="https://i.imgur.com/LMRIylM.png">
-</p>
 
 ## Development/Producation Setup
 
@@ -20,7 +15,3 @@ npm run serve
 # FOR BUILD: 
 npm run build
 ```
-
-# Project Structure 
-
->coming soon!
